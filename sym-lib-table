@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CS4030)(type Legacy)(uri ${KIPRJMOD}/parts/CD4030BE/2020-11-20_17-08-33.lib)(options "")(descr ""))
+)
