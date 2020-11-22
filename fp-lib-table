@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cgs39-neo)(type KiCad)(uri ${KIPRJMOD}/cgs39-neo.pretty)(options "")(descr ""))
+)
